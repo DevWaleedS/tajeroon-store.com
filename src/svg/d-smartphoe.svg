@@ -1,0 +1,10 @@
+<svg id="smartphoe" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <circle id="Ellipse_286" data-name="Ellipse 286" cx="17" cy="17" r="17" fill="#dcdcdc"/>
+  <g id="smartphon" transform="translate(7 7)">
+    <rect id="Rectangle_7402" data-name="Rectangle 7402" width="20" height="20" fill="rgba(255,255,255,0)"/>
+    <g id="Group_17710" data-name="Group 17710" transform="translate(-1.411 -1.018)">
+      <path id="Path_11048" data-name="Path 11048" d="M16.822,2.9V19.135a.9.9,0,0,1-.9.9H6.9a.9.9,0,0,1-.9-.9V2.9A.9.9,0,0,1,6.9,2H15.92A.9.9,0,0,1,16.822,2.9Z" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+      <path id="Path_11049" data-name="Path 11049" d="M14,2V3H10V2Z" transform="translate(-0.589)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

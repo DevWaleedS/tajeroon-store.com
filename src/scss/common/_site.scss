@@ -1,0 +1,42 @@
+/*
+// .site
+*/
+@import '../variables';
+
+
+.site {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.site__header {
+    flex-shrink: 0;
+}
+
+.site__body {
+    flex-grow: 1;
+}
+
+.site__footer {
+    flex-shrink: 0;
+}
+
+#webpack-dev-server-client-overlay {
+    display: none;
+}
+
+.sub_title {
+    margin-bottom: 2rem;
+
+    h6 {
+        font-weight: 500;
+        margin-bottom: 0;
+    }
+}
+
+@media(max-width:576px){
+    .sub_title {
+        margin-bottom: 1rem;
+    }
+}
