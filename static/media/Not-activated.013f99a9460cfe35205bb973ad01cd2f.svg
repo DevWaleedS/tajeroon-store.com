@@ -1,0 +1,8 @@
+<svg id="Not_activated" data-name="Not activated" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7393" data-name="Rectangle 7393" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="shutdown-icon" transform="translate(3 3)">
+    <path id="Path_11056" data-name="Path 11056" d="M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" fill="#ef4136" fill-rule="evenodd"/>
+    <path id="Path_11057" data-name="Path 11057" d="M33.1,37.179a.94.94,0,0,1,1.421-1.23A5.311,5.311,0,1,1,26.45,36a.939.939,0,1,1,1.437,1.208,3.431,3.431,0,1,0,5.218-.029Z" transform="translate(-21.509 -30.405)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_11058" data-name="Path 11058" d="M56.887,27.244a.943.943,0,1,1-1.887,0V24.433a.943.943,0,1,1,1.887,0v2.811Z" transform="translate(-46.943 -20.049)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
