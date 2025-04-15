@@ -1,0 +1,4 @@
+<svg id="close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7403" data-name="Rectangle 7403" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <path id="Path_11052" data-name="Path 11052" d="M83.216,80.587l-6.744-6.744L83.216,67.1a1.859,1.859,0,0,0-2.628-2.628l-6.744,6.744L67.1,64.471A1.859,1.859,0,1,0,64.471,67.1l6.744,6.744-6.744,6.744A1.859,1.859,0,0,0,67.1,83.216l6.744-6.744,6.744,6.744a1.859,1.859,0,0,0,2.628-2.628Z" transform="translate(-61.925 -60.925)" fill="var(--primary-bg)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_24_audiovisual_play_circle_outlined" data-name="ico / 24 / audiovisual / play_circle_outlined" clip-path="url(#clip-path)">
+    <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM10,2a8,8,0,1,0,8,8A8.009,8.009,0,0,0,10,2ZM7.75,14.4A.749.749,0,0,1,7,13.65V6.35a.75.75,0,0,1,1.15-.63L14,9.36a.76.76,0,0,1,0,1.28L8.15,14.28A.751.751,0,0,1,7.75,14.4Z" transform="translate(2 2)"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="email" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <circle id="Ellipse_287" data-name="Ellipse 287" cx="17" cy="17" r="17" fill="var(--primary-bg)"/>
+  <g id="mail_email_e-mail_letter" data-name="mail email e-mail letter" transform="translate(6 9)">
+    <path id="Path_11050" data-name="Path 11050" d="M24.5,13a.86.86,0,0,0-.86.86v6.879a.86.86,0,0,1-.86.86H5.58a.86.86,0,0,1-.86-.86V13.86a.86.86,0,1,0-1.72,0v6.879a2.584,2.584,0,0,0,2.58,2.58h17.2a2.584,2.584,0,0,0,2.58-2.58V13.86A.86.86,0,0,0,24.5,13Z" transform="translate(-3 -7.841)" fill="#fff"/>
+    <path id="Path_11051" data-name="Path 11051" d="M13.689,17.147a.86.86,0,0,0,1.032,0L24.876,9.528a.86.86,0,0,0,.258-1.058,2.631,2.631,0,0,0-.507-.714A2.58,2.58,0,0,0,22.8,7H5.607a2.58,2.58,0,0,0-1.823.757,2.631,2.631,0,0,0-.507.714.86.86,0,0,0,.258,1.058ZM5.607,8.72H22.8a.774.774,0,0,1,.241,0l-8.84,6.664L5.366,8.72a.774.774,0,0,1,.241,0Z" transform="translate(-3.027 -7)" fill="#fff"/>
+  </g>
+</svg>
