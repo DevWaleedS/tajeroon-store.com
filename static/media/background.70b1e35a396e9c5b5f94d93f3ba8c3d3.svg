@@ -1,0 +1,6 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7417" data-name="Rectangle 7417" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="background_foreground_css_effect_shadow_gradient_tool" data-name="background, foreground, css, effect, shadow, gradient, tool" transform="translate(0.582 0.582)">
+    <path id="Path_11061" data-name="Path 11061" d="M20.782,2.417A.683.683,0,0,0,20.163,2H6.709a.673.673,0,0,0-.673.673V6.036H2.673A.673.673,0,0,0,2,6.709V20.163a.673.673,0,0,0,.673.673H16.127a.673.673,0,0,0,.673-.673V16.8h3.364a.673.673,0,0,0,.673-.673V2.673a.673.673,0,0,0-.054-.256Zm-1.292,10.07-2.967,2.967H15.057l4.433-4.433Zm0-3.364-6.33,6.33H11.694l7.8-7.8Zm0-3.364L9.8,15.454H8.33l11.16-11.16ZM11.815,3.345,7.382,7.779V6.312l2.967-2.967Zm3.364,0-7.8,7.8V9.676l6.33-6.33Zm-7.8,9.694,9.694-9.694h1.467L7.382,14.506Zm1.07-9.694-1.07,1.07V3.345Zm7,16.145H3.345V7.382H6.036v8.745a.683.683,0,0,0,.673.673h8.745Zm2.967-4.036,1.07-1.07v1.07Z" fill="#02466a"/>
+  </g>
+</svg>
